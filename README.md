@@ -12,7 +12,7 @@ This is a simple SwiftUI-based store app that allows users to browse and shop fo
 
 ## Screenshots
 
-Include screenshots of your app in action. You can add them directly to the README or create a separate folder for images.
+
 
 ## Getting Started
 
