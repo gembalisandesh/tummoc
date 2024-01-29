@@ -11,9 +11,7 @@ This is a simple SwiftUI-based store app that allows users to browse and shop fo
 - View details about the app creator.
 
 ## Screenshots
-
-
-
+Check Above screenshots for reference
 ## Getting Started
 
 1. Clone the repository:
