@@ -19,7 +19,7 @@ Include screenshots of your app in action. You can add them directly to the READ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/gembalisandesh/tummoc.git
    ```
 
 2. Open the Xcode project.
